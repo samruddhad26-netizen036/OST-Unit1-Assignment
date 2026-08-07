@@ -6,5 +6,5 @@
 
 * GitHub: samruddhad26-netizen036
 * Course: B.Sc. Artificial Intelligence
-* OST for data science - unit 1
+* Open source tools for data science - unit 1
 
