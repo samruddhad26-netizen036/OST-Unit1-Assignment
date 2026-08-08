@@ -6,7 +6,6 @@
 
 * GitHub: samruddhad26-netizen036
 * Course: B.Sc. Artificial Intelligence
-* OST for data science - unit 1 and 2
-
-
+* This is Branch B
+* Just trying to learn git commands
 
